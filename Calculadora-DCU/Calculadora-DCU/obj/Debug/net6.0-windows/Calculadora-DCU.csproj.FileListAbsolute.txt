@@ -1,0 +1,17 @@
+C:\Users\RB\source\repos\Calculadora-DCU\Calculadora-DCU\obj\Debug\net6.0-windows\Calculadora-DCU.csproj.AssemblyReference.cache
+C:\Users\RB\source\repos\Calculadora-DCU\Calculadora-DCU\obj\Debug\net6.0-windows\Calculadora_DCU.Calculadora_DCU.resources
+C:\Users\RB\source\repos\Calculadora-DCU\Calculadora-DCU\obj\Debug\net6.0-windows\Calculadora-DCU.csproj.GenerateResource.cache
+C:\Users\RB\source\repos\Calculadora-DCU\Calculadora-DCU\obj\Debug\net6.0-windows\Calculadora-DCU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RB\source\repos\Calculadora-DCU\Calculadora-DCU\obj\Debug\net6.0-windows\Calculadora-DCU.AssemblyInfoInputs.cache
+C:\Users\RB\source\repos\Calculadora-DCU\Calculadora-DCU\obj\Debug\net6.0-windows\Calculadora-DCU.AssemblyInfo.cs
+C:\Users\RB\source\repos\Calculadora-DCU\Calculadora-DCU\obj\Debug\net6.0-windows\Calculadora-DCU.csproj.CoreCompileInputs.cache
+C:\Users\RB\source\repos\Calculadora-DCU\Calculadora-DCU\bin\Debug\net6.0-windows\Calculadora-DCU.exe
+C:\Users\RB\source\repos\Calculadora-DCU\Calculadora-DCU\bin\Debug\net6.0-windows\Calculadora-DCU.deps.json
+C:\Users\RB\source\repos\Calculadora-DCU\Calculadora-DCU\bin\Debug\net6.0-windows\Calculadora-DCU.runtimeconfig.json
+C:\Users\RB\source\repos\Calculadora-DCU\Calculadora-DCU\bin\Debug\net6.0-windows\Calculadora-DCU.dll
+C:\Users\RB\source\repos\Calculadora-DCU\Calculadora-DCU\bin\Debug\net6.0-windows\Calculadora-DCU.pdb
+C:\Users\RB\source\repos\Calculadora-DCU\Calculadora-DCU\obj\Debug\net6.0-windows\Calculadora-DCU.dll
+C:\Users\RB\source\repos\Calculadora-DCU\Calculadora-DCU\obj\Debug\net6.0-windows\refint\Calculadora-DCU.dll
+C:\Users\RB\source\repos\Calculadora-DCU\Calculadora-DCU\obj\Debug\net6.0-windows\Calculadora-DCU.pdb
+C:\Users\RB\source\repos\Calculadora-DCU\Calculadora-DCU\obj\Debug\net6.0-windows\Calculadora-DCU.genruntimeconfig.cache
+C:\Users\RB\source\repos\Calculadora-DCU\Calculadora-DCU\obj\Debug\net6.0-windows\ref\Calculadora-DCU.dll
